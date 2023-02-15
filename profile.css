@@ -2,7 +2,8 @@ CSS TEMP
 
 <style type="text/css">
 
-body {
+body 
+{
 	background-image: url("50gray.png");
 	background-repeat: repeat;
 	background-attachment: fixed;
@@ -10,7 +11,8 @@ body {
 	background-size:contain;
 }
 
-#basics {
+#basics
+{
 	text-shadow: 0 0 0.5em #BF1E2E, 0 0 0.5em #BF1E2E, 0 0 0.5em #BF1E2E, 0 0 0.5em #BF1E2E, 0 0 0.5em #BF1E2E, 0 0 0.5em #BF1E2E, 0 0 0.5em #BF1E2E;
 	font-family: Arial Rounded MT;
 	font-size: 20px;
@@ -22,3 +24,4 @@ body {
 	height:70px;
 	z-index:3;
 }
+</style>
