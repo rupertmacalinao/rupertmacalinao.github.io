@@ -15,11 +15,5 @@ body
 	font-family: Arial Rounded MT;
 	font-size: 20px;
 	color: #FEBD61;
-	position:absolute;
-	left:100px;
-	top:212px;
-	width:483px;
-	height:70px;
-	z-index:3;
 }
 </style>
